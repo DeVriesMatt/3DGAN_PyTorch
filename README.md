@@ -2,10 +2,11 @@
 
 Implementation of 3D GAN in PyTorch based on [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](http://3dgan.csail.mit.edu/ "3D GAN")
 
-ModelNet10 voxelised data is available [here](../blob/master/Datasets/). 
+ModelNet10 voxelised data is available [here](../blob/main/Datasets/). 
 
-Unzip to this directory to use the [3DGAN notebook](../blob/master/3DGAN_PyTorch.ipynb):
+Unzip to this directory to use the [3DGAN notebook](../blob/main/3DGAN_PyTorch.ipynb):
 `cd Datasets`
+
 `unzip ModelNet10Voxel.zip`
 
 # References
